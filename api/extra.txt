@@ -1,0 +1,11 @@
+home - /
+        adminLoginForm - /adminLogin
+                if right -> navigate to /admin
+                else -> /
+        
+        
+
+
+
+admin - /adminLogin/admin/
+
